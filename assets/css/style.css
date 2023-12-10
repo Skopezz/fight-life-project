@@ -91,6 +91,7 @@ nav {
   font-size: 2rem;
 }
 
+
 /* Main content */
 main {
   background-color: lightblue;
@@ -112,7 +113,7 @@ footer {
 }
 
 #social-networks i {
-    font-size: 110%;
+    font-size: 100%;
     padding: 10%;
     
 }

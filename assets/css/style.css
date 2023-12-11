@@ -130,6 +130,49 @@ main {
     color: #ffffff;
 }
 
+/* Classes on Home page section */
+
+#classes-hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-rdne-stock-project-8612000.jpg") no-repeat center center/cover
+}
+
+#cover-text-classes-main {
+    font-size: 80%;
+    position: absolute;
+    width: 100%;
+    padding-top: 220px;
+    padding-left: 25px;
+
+}
+
+#cover-text-classes-main > p {
+
+    color: white;
+}
+
+/* Lifestyle on Home page section */
+
+#Lifestyle-hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-anna-tarazevich-5895891.jpg") no-repeat center center/cover
+
+}
+
+#cover-text-lifestyle-main > p {
+    color: #ffffff;
+}
+
+#cover-text-lifestyle-main {
+    font-size: 80%;
+    position: absolute;
+    width: 100%;
+    padding-top: 220px;
+    padding-left: 25px;
+
+}
 
 /* Footer */
 footer {

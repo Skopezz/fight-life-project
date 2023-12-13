@@ -145,24 +145,24 @@ main {
     font-size: 190%;
     
 }
-
-.hero-btn{
-    position: absolute;
-    top: 50%;
-    left: 40%;
-    margin-top: 110px;
-    transform: translate(180%, 180%);
-    -ms-transform: translate(40%, 40%);
+#cover-text p {
+    text-align: center;
+    
+  }
+  
+  #cover-text p a {
+    display: inline-block;
     background-color: black;
-    color: red;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
     font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    border-radius: 0px;
+    border-radius: 5px;
+    margin-top: 20px; 
+   
+  }
 
 
-}
 
 /* Classes on Home page section reference - https://www.youtube.com/watch?v=ng5t_R4zuSc*/
 
@@ -642,12 +642,7 @@ footer {
     left: 160px;
 }
 
- /* Hero button */
-.hero-btn{
-    /* Place button in below centre of header */
-    
-    left: 10%;
-}
+
 
 /* Classes */
 .content-section {

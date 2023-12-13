@@ -264,6 +264,8 @@ video#bgvideo {
     box-sizing: border-box;
 }
 
+
+
 .container-class{
     width: 100%;
     min-height: 100vh;
@@ -317,9 +319,42 @@ video#bgvideo {
 /* Lifestyle */
 
 #Lifestyle {
-    height: 600px;
+    height: 700px;
     width: 100%;
     background: url(../images/jared-rice-NTyBbu66_SI-unsplash.jpg) no-repeat center center/cover;
+
+}
+
+#cover-lifestyle h2 {
+
+    font-size: 350%;
+    padding-top: 70px;
+    padding-left: 50px;
+}
+
+#cover-lifestyle p {
+
+    padding-left: 80px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 160%;
+    padding-top: 200px;  
+}
+
+.lifestyle-btn
+
+{
+    margin-left: 670px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    color: #333;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 0px;
+    text-decoration: none; 
+    display: inline-block;
 
 }
 
@@ -501,10 +536,12 @@ footer {
 
 #page-links li {
     color: white;
+    padding: 20px 0;
     display: inline;
-    padding-right: 15px;
-    margin: 80px;
+    margin: 205px;
     margin-right: 80px;
+    justify-content: space-evenly;
+    text-align: center;
 
 }
 

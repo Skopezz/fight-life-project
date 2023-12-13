@@ -184,11 +184,12 @@ main {
 
 }
 
+
 #cover-text-classes-main h2 {
-    color: red;
+    color: #ffffff;
     margin-top: -60px;
    margin-bottom: 30px;
-    font-size: 180%;
+    font-size: 195%;
 }
 
 
@@ -196,6 +197,16 @@ main {
 
     color: #ffffff;
     font-size: 135%;
+    text-decoration: none;
+}
+
+.cover-text-classes-main-box a {
+    text-decoration: none; 
+    color: inherit; 
+}
+
+.cover-text-classes-main-box a:hover {
+    text-decoration: underline; 
 }
 
 
@@ -214,7 +225,7 @@ main {
 
 #cover-text-lifestyle-main > p {
     color: #ffffff;
-    font-size: 120%;
+    font-size: 150%;
     
     
 }
@@ -224,7 +235,7 @@ main {
     position: absolute;
     width: 100%;
     padding-top: 220px;
-    padding-left: 25px;
+    padding-left: 80px;
    
 
 }
@@ -233,6 +244,15 @@ main {
 
     font-size: 400%;
     color: gold;
+}
+
+#cover-text-lifestyle-main a {
+    text-decoration: none; 
+    color: inherit; 
+}
+
+#cover-text-lifestyle-main a:hover {
+    text-decoration: underline; 
 }
 
 /* Our Club Page */

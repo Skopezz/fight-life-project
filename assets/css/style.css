@@ -9,6 +9,8 @@
   box-sizing: border-box;
 }
 
+
+
 /* General styles */
 body {
   min-height: 100vh;
@@ -107,7 +109,7 @@ main {
   /* Make main element take up any surplus space to push footer down */
   flex: 1 0 auto;
   margin-top: 47px;
-}
+ }
 
 /* Hero section */
 #hero {
@@ -147,7 +149,7 @@ main {
 .hero-btn{
     position: absolute;
     top: 50%;
-    left: 60%;
+    left: 40%;
     margin-top: 110px;
     transform: translate(180%, 180%);
     -ms-transform: translate(40%, 40%);
@@ -162,7 +164,7 @@ main {
 
 }
 
-/* Classes on Home page section */
+/* Classes on Home page section reference - https://www.youtube.com/watch?v=ng5t_R4zuSc*/
 
 #classes-hero {
     height: 600px;
@@ -186,7 +188,7 @@ main {
 
 
 #cover-text-classes-main h2 {
-    color: #ffffff;
+    color: coral;
     margin-top: -60px;
    margin-bottom: 30px;
     font-size: 195%;
@@ -348,7 +350,7 @@ video#bgvideo {
 /* Lifestyle */
 
 #Lifestyle {
-    height: 700px;
+    height: 890px;
     width: 100%;
     background: url(../images/jared-rice-NTyBbu66_SI-unsplash.jpg) no-repeat center center/cover;
 
@@ -411,6 +413,7 @@ video#bgvideo {
     flex-direction: column;
     background: url(../images/pexels-alesia-kozik-8154269.jpg)no-repeat center center/cover;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/pexels-alesia-kozik-8154269.jpg");
+    flex-grow: 1;
     
     
 
@@ -591,14 +594,11 @@ footer {
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
 
+/* Our Club */
     #photos {
         column-count: 2;
         column-gap: 0;
     }
-
-
-   
-
 
 }
 
@@ -642,11 +642,21 @@ footer {
     left: 160px;
 }
 
+ /* Hero button */
+.hero-btn{
+    /* Place button in below centre of header */
+    
+    left: 10%;
+}
+
+/* Classes */
+.content-section {
+    flex-direction: column;
+}
  /* Our Club gallery*/
  #photos {
     column-count: 2;
 }
-
 
  /* Contact Form */
  .contact {
@@ -662,6 +672,7 @@ footer {
 .contactForm {
     width: 100%;
 }
+
 
 }
 

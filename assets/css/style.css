@@ -264,7 +264,16 @@ video#bgvideo {
     box-sizing: border-box;
 }
 
+.classes-text {
 
+    font-size: 250%;
+    padding-top: 70px;
+    padding-left: 50px;
+}
+
+.classes-text p {
+    color: #ffffff;
+}
 
 .container-class{
     width: 100%;

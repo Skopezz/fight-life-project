@@ -256,6 +256,72 @@ video#bgvideo {
 
 }
 
+/* Classes */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container-class{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 90px;
+}
+.content-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.content-section .card {
+    flex: 1;
+    margin: 20px 20px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    
+}
+.content-section .card img {
+    width: 100%;
+    height: auto;
+}
+
+.content-section .card h2 {
+    margin: 15px 0px;
+    font-size: 28px;
+    color: #1662a1;
+    font-family: sans-serif;
+
+}
+
+.content-section .card p{
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0px 10px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+
+}
+
+#classes {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-dany-lovehill-10341872.jpg") no-repeat center center/cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/pexels-dany-lovehill-10341872.jpg");
+}
+
+/* Lifestyle */
+
+#Lifestyle {
+    height: 600px;
+    width: 100%;
+    background: url(../images/jared-rice-NTyBbu66_SI-unsplash.jpg) no-repeat center center/cover;
+
+}
 
 
 /* Contact Form - reference: https://www.youtube.com/watch?v=gggB0Nq5vBk */
@@ -514,6 +580,8 @@ footer {
  #photos {
     column-count: 2;
 }
+
+
  /* Contact Form */
  .contact {
     padding: 50px;

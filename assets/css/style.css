@@ -105,7 +105,6 @@ nav {
 
 /* Main content button reference for hero cover image (https://www.w3schools.com/howto/howto_css_button_on_image.asp) */
 main {
-  background-color: 
   /* Make main element take up any surplus space to push footer down */
   flex: 1 0 auto;
   margin-top: 47px;

@@ -352,6 +352,8 @@ display: inline-block;
 
 }
 
+
+
 #classes {
     height: 600px;
     width: 100%;
@@ -605,6 +607,8 @@ footer {
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
+    
+   
 
 /* Our Club */
     #photos {
@@ -617,6 +621,10 @@ footer {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
+    .content-section {
+        flex-direction: column; 
+    }
   /*Header*/
   nav {
     display: block;
@@ -682,6 +690,11 @@ footer {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
+
+    .content-section {
+        flex-direction: row; /* Resetting the flex-direction to the default value */
+    }
+
     #menu a:hover{
         border-bottom: 1px solid white;
         color: orange;

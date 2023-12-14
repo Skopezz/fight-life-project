@@ -267,6 +267,11 @@ video#bgvideo {
     height: 100%;
     }
 
+.hidden-heading {
+    background: black;
+    color: black;
+}
+
 
 #photos img {
     width: 100%;

@@ -297,6 +297,18 @@ video#bgvideo {
     color: #ffffff;
 }
 
+#classes a {
+display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px; 
+    margin-left: 50px;
+}
+
 .container-class{
     width: 100%;
     min-height: 100vh;
@@ -645,9 +657,6 @@ footer {
 
 
 /* Classes */
-.content-section {
-    flex-direction: column;
-}
  /* Our Club gallery*/
  #photos {
     column-count: 2;

@@ -14,19 +14,34 @@ Fight Life is a site designed to bring together martial arts enthusiasts, fitnes
 * As a user I want a dedicated section for lifestyle and wellness tips.
   
 ### **Site aims**
-* Showcase various martial arts classes
+* Showcase various martial arts classes available
 * Be user friendly with easy navigation and clear information to attract users
 * Offer not just fitness classes but also integrate lifestyle content, providing users with tips on nutrition, mental well-being, and a holistic approach
   
 ### **Wireframes**
 
+I created low fidelity frames on figma to provide a skeleton and basic layout of the site. Following this I created high quality mock ups on canva that showed how the finished website would look. Below are the screenshots of the low fidelity wireframes and mock up.
+
+
+* low fidelity wireframes
+  * 
+
+* High fidelity wireframes
+  * 
+
+There are differences from the wireframes to the finished website:
+
+
+
 ### **Color Scheme:**
+
+The color scheme for the majority of the website were black and white, blacks used for the background and white for text. The occasional light blue, coral and red were used for headings and links.
 
 
 ## Table of contents:
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](assets/images/)
 
 ## Features 
 

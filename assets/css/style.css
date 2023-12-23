@@ -26,7 +26,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #ffffff;
-    white-space: nowrap;
+    white-space: nowrap;  /* Makes sure that the heading stays on one line */
   }
 
   h2 {
@@ -124,6 +124,10 @@ main {
     min-height: 200px;
     padding-top: 220px;
     padding-left: 85px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
     
 }
 
@@ -315,7 +319,7 @@ display: inline-block;
 
 .container-class{
     width: 100%;
-    min-height: 100vh;
+    min-height: 50vh;
     background-color: #f7f7f7;
     display: flex;
     justify-content: center;
@@ -325,7 +329,6 @@ display: inline-block;
 .content-section {
     display: flex;
     justify-content: center;
-    align-items: center;
     text-align: center;
 }
 .content-section .card {
@@ -354,8 +357,16 @@ display: inline-block;
     margin-bottom: 20px;
     font-family: sans-serif;
 
+
 }
 
+.content-section img {
+
+    
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 16 / 9;
+}
 
 
 #classes {
@@ -611,6 +622,7 @@ footer {
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
+    
     
    
 

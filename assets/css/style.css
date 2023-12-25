@@ -635,12 +635,7 @@ footer {
     
 }
 
-@media screen and (max-width: 420px) {
-.container {
-    width: 190%;
 
-}
-}
 /* Media query: Small sized phones (375px and up) */
 @media screen and (min-width: 375px) {
 #cover-text > h2 {
@@ -648,6 +643,13 @@ footer {
 }
 
 }
+
+/* Media query: Small sized phones (420px and up) */
+@media screen and (max-width: 420px) {
+    .container {
+        width: 190%;
+    }
+    }
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {

@@ -185,7 +185,7 @@ main {
     left: 5%;
     font-size: 80%;
     width: 30%;
-    padding-top: 135px;
+    padding-top: 184px;
     padding-left: 35px;
     height: 60%;
 
@@ -209,7 +209,7 @@ main {
     text-decoration: none;
     margin-left: -19px;
     margin: -40px;
-    margin-bottom: 35px;
+    margin-bottom: 56px;
 }
 
 .cover-text-classes-main-box a {
@@ -742,6 +742,14 @@ footer {
         border-bottom: 1px solid white;
         color: orange;
     }
+
+    #cover-text p a { 
+
+        margin-left: 130px;
+    }
+
+   
+
     
 
      /* Our Club */
@@ -793,6 +801,7 @@ body {
     background: lime;   
   }
 
+  /* Club page */
   @media screen and (max-width:768px){
     .content-section {
         flex-direction: column;
@@ -801,7 +810,7 @@ body {
   }
 
 
-  /* Contact Form  - as referenced on youtube link https://www.youtube.com/watch?v=gggB0Nq5vBk*/ 
+  /* Contact Form  - as referenced on youtube link https://www.youtube.com/watch?v=gggB0Nq5vBk */ 
   @media screen and (max-width: 992px)
   {
    /* Contact Form */

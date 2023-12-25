@@ -143,7 +143,7 @@ main {
 #cover-text > h2 {
     color: #ffffff;
     padding: 10px;
-    margin-left: 30px;
+    margin-left: -91px;
     letter-spacing: 8px;
     font-size: 190%;
     
@@ -162,12 +162,15 @@ main {
     font-size: 16px;
     border-radius: 5px;
     margin-top: 20px; 
+    margin-left: -85px;
    
   }
 
 
 
 /* Classes on Home page section reference - https://www.youtube.com/watch?v=ng5t_R4zuSc*/
+
+
 
 #classes-hero {
     height: 600px;
@@ -195,6 +198,7 @@ main {
     margin-top: -60px;
    margin-bottom: 30px;
     font-size: 195%;
+    margin-left: -19px;
 }
 
 
@@ -203,6 +207,7 @@ main {
     color: #ffffff;
     font-size: 135%;
     text-decoration: none;
+    margin-left: -19px;
 }
 
 .cover-text-classes-main-box a {
@@ -294,6 +299,8 @@ video#bgvideo {
     box-sizing: border-box;
 }
 
+
+
 .classes-text {
 
     font-size: 250%;
@@ -376,25 +383,31 @@ display: inline-block;
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/pexels-dany-lovehill-10341872.jpg");
 }
 
+.ccontent-section {
+    column-count: 2;
+
+}
+
 /* Lifestyle */
 
 #Lifestyle {
     height: 890px;
     width: 100%;
     background: url(../images/jared-rice-NTyBbu66_SI-unsplash.jpg) no-repeat center center/cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/jared-rice-NTyBbu66_SI-unsplash.jpg")
 
 }
 
 #cover-lifestyle h2 {
 
     font-size: 350%;
-    padding-top: 70px;
-    padding-left: 50px;
+    padding-top: 45px;
+    padding-left: 20px;
 }
 
 #cover-lifestyle p {
 
-    padding-left: 80px;
+    padding-left: 17px;
     text-align: center;
     color: #ffffff;
     font-size: 160%;
@@ -404,7 +417,7 @@ display: inline-block;
 .lifestyle-btn
 
 {
-    margin-left: 670px;
+    margin-left: 122px;
     margin-top: 20px;
     background-color: #ffffff;
     color: #333;
@@ -623,26 +636,83 @@ footer {
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
-    
-    
-   
 
+    #Lifestyle {
+        height: 663px;
+    }
+
+    
 /* Our Club */
     #photos {
         column-count: 2;
         column-gap: 0;
     }
 
-}
+ 
+
+
 
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
+    
     .content-section {
         flex-direction: column; 
     }
-  /*Header*/
+  
+   /* Main content */
+   main {
+    /* Push main content down to accommodate larger header */
+    margin-top: 45px;
+}
+
+ /* Hero image */
+ #cover-text {
+    width: 300px;
+    left: 160px;
+}
+
+#cover-text > h2 {
+    color: #ffffff;
+    padding: 10px;
+    margin-left: -79px;
+    letter-spacing: 8px;
+    font-size: 190%;
+    white-space: nowrap;
+    
+}
+}
+
+
+
+/* Classes */
+ /* Our Club gallery*/
+ #photos {
+    column-count: 2;
+}
+
+/* Lifestyle */
+
+.lifestyle-btn
+
+{
+    margin-left: 321px;
+    margin-top: 69px;
+
+}
+
+#Lifestyle {
+    height: 1038px; }
+
+    
+
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+    /*Header*/
   nav {
     display: block;
     position: relative;
@@ -667,32 +737,6 @@ footer {
     margin: 0 0.5rem;
     
   }
-   /* Main content */
-   main {
-    /* Push main content down to accommodate larger header */
-    margin-top: 79px;
-}
-
- /* Hero image */
- #cover-text {
-    width: 300px;
-    left: 160px;
-}
-
-
-
-/* Classes */
- /* Our Club gallery*/
- #photos {
-    column-count: 2;
-}
-
-
-
-}
-
-/* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
 
     .content-section {
         flex-direction: row; /* Resetting the flex-direction to the default value */
@@ -715,8 +759,19 @@ footer {
         margin-left: 170px;
         letter-spacing: 8px;
         font-size: 190%;
+        white-space: nowrap;
         
     }
+
+    /* Lifestyle */
+
+.lifestyle-btn
+
+{
+    margin-left: 436px;
+    margin-top: 69px;
+
+}
 
     
 }
@@ -744,7 +799,7 @@ body {
 
   @media screen and (max-width:768px){
     .content-section {
-        flex-direction: column;
+        flex-direction: c;
     }
     
   }

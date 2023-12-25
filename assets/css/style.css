@@ -195,10 +195,10 @@ main {
 
 #cover-text-classes-main h2 {
     color: coral;
-    margin-top: -60px;
-   margin-bottom: 30px;
+    margin-top: -128px;
+   margin-bottom: 56px;
     font-size: 195%;
-    margin-left: -19px;
+    margin-left: -41px;
 }
 
 
@@ -208,6 +208,8 @@ main {
     font-size: 135%;
     text-decoration: none;
     margin-left: -19px;
+    margin: -40px;
+    margin-bottom: 35px;
 }
 
 .cover-text-classes-main-box a {
@@ -331,7 +333,6 @@ display: inline-block;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0px 90px;
 }
 .content-section {
     display: flex;
@@ -656,11 +657,6 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
-    
-    .content-section {
-        flex-direction: column; 
-    }
-  
    /* Main content */
    main {
     /* Push main content down to accommodate larger header */
@@ -799,7 +795,7 @@ body {
 
   @media screen and (max-width:768px){
     .content-section {
-        flex-direction: c;
+        flex-direction: column;
     }
     
   }

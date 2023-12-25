@@ -488,7 +488,7 @@ display: inline-block;
 }
 
 .container {
-    width: 100%;
+    width: 130%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -635,12 +635,18 @@ footer {
     
 }
 
+@media screen and (max-width: 420px) {
+.container {
+    width: 190%;
 
-/* Media query: large or landscape phones (576px and up) */
+}
+}
+/* Media query: Small sized phones (375px and up) */
 @media screen and (min-width: 375px) {
 #cover-text > h2 {
     padding: 2px;
 }
+
 }
 
 /* Media query: large or landscape phones (576px and up) */

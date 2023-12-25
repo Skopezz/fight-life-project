@@ -34,7 +34,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #ffffff;
-    white-space: nowrap;
+   
   }
 
 /* Header */
@@ -479,6 +479,7 @@ display: inline-block;
     justify-content: center;
     align-items: center;
     margin-top: 30px;
+    flex: 1;
 }
 
 #container, .contactInfo {
@@ -532,7 +533,7 @@ display: inline-block;
 
 .contactForm h2 {
     font-size: 30px;
-    color: #0e9cd4;
+    color: #333;
     font-weight: 500;
 
 }
@@ -686,20 +687,6 @@ footer {
     column-count: 2;
 }
 
- /* Contact Form */
- .contact {
-    padding: 50px;
-}
-.container {
-    flex-direction: column;
-}
-.container .contactInfo {
-    margin-bottom: 40px;
-}
-.container .contactInfo,
-.contactForm {
-    width: 100%;
-}
 
 
 }
@@ -753,4 +740,31 @@ body {
   }
   .child p {
     background: lime;   
+  }
+
+  @media screen and (max-width:768px){
+    .content-section {
+        flex-direction: column;
+    }
+    
+  }
+
+
+  /* Contact Form  - as referenced on youtube link https://www.youtube.com/watch?v=gggB0Nq5vBk*/ 
+  @media screen and (max-width: 992px)
+  {
+   /* Contact Form */
+ .contact {
+    padding: 50px;
+}
+.container {
+    flex-direction: column;
+}
+.container .contactInfo {
+    margin-bottom: 40px;
+}
+.container .contactInfo,
+.contactForm {
+    width: 100%;
+}
   }

@@ -635,6 +635,14 @@ footer {
     
 }
 
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 375px) {
+#cover-text > h2 {
+    padding: 2px;
+}
+}
+
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
 

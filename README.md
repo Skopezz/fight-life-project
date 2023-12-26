@@ -24,11 +24,14 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
 
 
 * low fidelity wireframes
-  * ![Home section](assets/screenshots/Homepage wireframe.jpg)
-  * ![Club section] 
-  * ![Classes section]
-  * ![Lifestyle section]
-  * ![Timetable section]
+  * ![Home section](assets/screenshots/Homepage%20wireframe.jpg)
+  * ![Home section](assets/screenshots/Homepage%202%20wireframe.jpg)
+  * ![Home section](assets/screenshots/Homepage%203%20wireframe.jpg)
+  * ![Club section](assets/screenshots/Clubs%20wireframe.jpg)
+  * ![Classes section](assets/screenshots/Lifestyle%20wireframe.jpg)
+  * ![Lifestyle section](assets/screenshots/Lifestyle%20wireframe.jpg)
+  * ![Timetable section](assets/screenshots/timetable%20wireframe.jpg)
+  * ![Membership section](assets/screenshots/Membership%20wireframe.jpg)
 
 * High fidelity wireframes
   

@@ -69,12 +69,25 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
+##  **Header Element**
+The header element is at the top of the page containing the title of the page and navigation links that become highlighted and underlined once scrolled on and pressed to land on the selected link.
+
+## **Title**
+* ![Page title](assets/screenshots/Logo.png)
+
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The navigation will be on all four pages, it is responsive to desktop and mobile screens with links to the Home page, Club gallery, Classes and contact page.
+  - Use of the navigation bar provides users the ease to move across different pages without having to backtrack.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+The below image shows the navigation bar on mobile screens and links contained within the three bars icon that once pressed, will appear and collapse. It is designed to be repsonsive and easy to use.
+
+![Nav Bar on mobile screens](assets/screenshots/Nav%20bar%20mobile.png)
+
+The below image shows the navigation bar on desktop and larger screens with all links appearing across the header for easy access.
+
+![Nav Bar on desktop and laptop screens](assets/screenshots/Nav%20bar%20desktop.png)
+
 
 - __The landing page image__
 

@@ -24,9 +24,9 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
 
 
 * low fidelity wireframes
-  * ![Wireframe designs](assets/screenshots/Homepage )
+  
 * High fidelity wireframes
-  * 
+  
 
 There are differences from the wireframes to the finished website:
 

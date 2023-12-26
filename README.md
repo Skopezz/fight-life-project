@@ -2,7 +2,10 @@
 ## **Site Overview**
 Fight Life is a site designed to bring together martial arts enthusiasts, fitness seekers, and those looking for a holistic approach to well-being. Our goal is to provide a diverse range of martial art classes, foster a supportive community, and promote healthy lifestyles to complete beginners and seasoned fighters alike.
 
+
 ![Am I responsive mock up](assets/screenshots/mockup.png)
+
+## Table of contents:
 ## **Introduction**
 ### **Target Audiences:**
 * Users with a passion for martial arts, whether beginners or experienced practitioners seeking a training environment.
@@ -36,6 +39,7 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
   * ![Membership section](assets/screenshots/Membership%20wireframe.jpg)
 
 * High fidelity wireframes/mockups
+
  **Home Page**
   * ![Home section](assets/screenshots/Home%20Page_1.png)
   * ![Home section](assets/screenshots/Home%20page_2.png)
@@ -62,9 +66,6 @@ There are differences from the wireframes to the finished website:
 The color scheme for the majority of the website were black and white, blacks used for the background and white for text. The occasional light blue, coral and red were used for headings and links.
 
 
-## Table of contents:
-
-
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -89,6 +90,21 @@ The below image shows the navigation bar on mobile screens and links contained w
 The below image shows the navigation bar on desktop and larger screens with all links appearing across the header for easy access.
 
 ![Nav Bar on desktop and laptop screens](assets/screenshots/Nav%20bar%20desktop.png)
+
+***
+
+## Website  Overview
+### Home Page
+The Landing/home page contains the responsive navigation at the top, a hero image with cover text overlay as a tagline and a CTA to serve as motivation. Beneath this is another with an image and a short description on classes, another section on lifestyle tips with a call to action, and the last section is a contact form to provide details. At the bottom of the page is the footer which contains various social media links.
+
+![Home page with hero image](assets/screenshots/Home%20page%20hero.png)
+![Home page with classes image](assets/screenshots/Home%20page%20classes.png)
+![Home page with hero image](assets/screenshots/Home%20page%20lifestyle.png)
+![Home page with hero image](assets/screenshots/Home%20page%20contact.png)
+
+
+
+
 
 
 - __The landing page image__

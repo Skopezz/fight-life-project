@@ -37,9 +37,9 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
  **Home Page**
   * ![Home section](assets/screenshots/Home%20Page_1.png)
   * ![Home section](assets/screenshots/Home%20page_2.png)
-  * ![Home section](assets/screenshots/Home%20Page_3.png)
-  * ![Home section](assets/screenshots/Home%20Page_4.png)
-  * ![Home section](assets/screenshots/Home%20Page_5.png)
+  * ![Home section](assets/screenshots/Home%20page_3.png)
+  * ![Home section](assets/screenshots/Home%20page_4.png)
+  * ![Home section](assets/screenshots/Home%20page_5.png)
   **Classes**
   * ![Classes page](assets/screenshots/Classes.png)
 * **Club**

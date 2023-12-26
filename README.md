@@ -33,10 +33,27 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
   * ![Timetable section](assets/screenshots/timetable%20wireframe.jpg)
   * ![Membership section](assets/screenshots/Membership%20wireframe.jpg)
 
-* High fidelity wireframes
-  
+* High fidelity wireframes/mockups
+ **Home Page**
+  * ![Home section](assets/screenshots/Home%20Page_1.png)
+  * ![Home section](assets/screenshots/Home%20page_2.png)
+  * ![Home section](assets/screenshots/Home%20Page_3.png)
+  * ![Home section](assets/screenshots/Home%20Page_4.png)
+  * ![Home section](assets/screenshots/Home%20Page_5.png)
+  **Classes**
+  * ![Classes page](assets/screenshots/Classes.png)
+* **Club**
+  * ![Club page](assets/screenshots/Club.png)
+ **Lifestyle**
+  * ![Lifestyle page](assets/screenshots/Lifestyle.png)
+  **Timetable**
+  * ![Lifestyle page](assets/screenshots/Timetable.png)
 
 There are differences from the wireframes to the finished website:
+  * The final web page has 4 navigation links in total: Home, Our Club, Classes and Contact.
+  * There is no "What we offer" section on home page
+  * There is no timetable page
+
 
 
 

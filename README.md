@@ -1,6 +1,8 @@
 # **fight-life-project**
 ## **Site Overview**
-Fight Life is a site designed to bring together martial arts enthusiasts, fitness seekers, and those looking for a holistic approach to well-being. Our goal is to provide a diverse range of martial art classes, foster a supportive community, and promote healthy lifestyles to complete beginners and seasoned fighters alike. 
+Fight Life is a site designed to bring together martial arts enthusiasts, fitness seekers, and those looking for a holistic approach to well-being. Our goal is to provide a diverse range of martial art classes, foster a supportive community, and promote healthy lifestyles to complete beginners and seasoned fighters alike.
+
+![Am I responsive mock up](assets/screenshots/mockup.png)
 ## **Introduction**
 ### **Target Audiences:**
 * Users with a passion for martial arts, whether beginners or experienced practitioners seeking a training environment.

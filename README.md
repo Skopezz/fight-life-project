@@ -76,7 +76,7 @@ In this section, you should go over the different parts of your project, and des
 The header element is at the top of the page containing the title of the page and navigation links that become highlighted and underlined once scrolled on and pressed to land on the selected link.
 
 ## **Title**
-* ![Page title](assets/screenshots/Logo.png)
+![Page title](assets/screenshots/Logo.png)
 
 - __Navigation Bar__
 
@@ -102,7 +102,14 @@ The Landing/home page contains the responsive navigation at the top, a hero imag
 ![Home page with hero image](assets/screenshots/Home%20page%20lifestyle.png)
 ![Home page with hero image](assets/screenshots/Home%20page%20contact.png)
 
+### Our Club Page
+This page shows a visually engaging layout, featuring an embedded video background as the hero image that has play controls for the user, an image gallery, and social media links in the footer.
+![Club page with hero image](assets/screenshots/Home%20page%20hero.png)
+![Club page showing gallery](assets/screenshots/Home%20page%20classes.png)
 
+### Classes Page
+### Lifestyle Page
+### Contact Page
 
 
 

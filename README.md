@@ -129,6 +129,7 @@ This page allows users to view Fight Life's contact details and submit inquiries
 ### The Footer 
 
   - The footer provides quick access to Fight Life's social media platforms via icons, inviting users to stay connected through Facebook, Twitter, YouTube, Instagram, and Spotify. 
+ [Footer Image page](assets/screenshots/Footer%20image.png)
 
 
 ## Testing 

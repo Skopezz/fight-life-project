@@ -42,7 +42,7 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
   * ![Home section](assets/screenshots/Home%20page_5.png)
   **Classes**
   * ![Classes page](assets/screenshots/Classes.png)
-* **Club**
+ **Club**
   * ![Club page](assets/screenshots/Club.png)
  **Lifestyle**
   * ![Lifestyle page](assets/screenshots/Lifestyle.png)
@@ -55,8 +55,6 @@ There are differences from the wireframes to the finished website:
   * There is no timetable page
 
 
-
-
 ### **Color Scheme:**
 
 The color scheme for the majority of the website were black and white, blacks used for the background and white for text. The occasional light blue, coral and red were used for headings and links.
@@ -64,8 +62,6 @@ The color scheme for the majority of the website were black and white, blacks us
 
 ## Table of contents:
 
-
-![Responsice Mockup](assets/images/)
 
 ## Features 
 

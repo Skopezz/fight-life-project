@@ -95,7 +95,10 @@ The below image shows the navigation bar on desktop and larger screens with all 
 
 ## Website  Overview
 ### Home Page
-The Landing/home page contains the responsive navigation at the top, a hero image with cover text overlay as a tagline and a CTA to serve as motivation. Beneath this is another with an image and a short description on classes, another section on lifestyle tips with a call to action, and the last section is a contact form to provide details. At the bottom of the page is the footer which contains various social media links.
+- The Landing/home page contains the responsive navigation at the top, a hero image with cover text overlay as a tagline and a CTA to serve as motivation. 
+- Beneath this is another with an image and a short description on classes and the larger number of classes to choose from.
+- Another section has a link to lifestyle tips with a call to action for the user to navigate to, where they will find resources that contribute to a healthier life. 
+- The last section is a contact form to submit details and receive information on the club and signing up. At the bottom of the page is the footer which contains various social media links.
 
 ![Home page with hero image](assets/screenshots/Home%20page%20hero.png)
 ![Home page with classes image](assets/screenshots/Home%20page%20classes.png)
@@ -103,65 +106,30 @@ The Landing/home page contains the responsive navigation at the top, a hero imag
 ![Home page with hero image](assets/screenshots/Home%20page%20contact.png)
 
 ### Our Club Page
-This page shows a visually engaging layout, featuring an embedded video background as the hero image that has play controls for the user, an image gallery, and social media links in the footer.
-![Club page with hero image](assets/screenshots/Home%20page%20hero.png)
-![Club page showing gallery](assets/screenshots/Home%20page%20classes.png)
+This page shows a visually engaging layout, featuring the following: 
+- An embedded video background as the hero image that has play controls for the user and shows training that user will do, it will provide motivation and excitement to take part
+- An image gallery with the gym space for the user to view
+  
+![Club page with hero image](assets/screenshots/Our%20club%20video.png)
+![Club page showing gallery](assets/screenshots/Our%20club%20gallery.png)
 
 ### Classes Page
+- The "Classes" section, provides users with a comprehensive overview of diverse martial artsaccompanied by engaging visuals and  descriptions. Users can view this on a well-structured and informative layout, helping them in making informed decisions about the variety of classes available. 
+![Classes page](assets/screenshots/Classes%20page.png)
+![Classes description](assets/screenshots/Classes%20page%20info.png)
+
 ### Lifestyle Page
+This contains the "Lifestyle" section, offering users an  experience to elevate their well-being. The user presses a call-to-action button which encourages users to explore more about adopting a healthier lifestyle leading to an external site with resources to do so.
+[Lifestyle page](assets/screenshots/Lifestyle%20page.png)
+
 ### Contact Page
+This page allows users to view Fight Life's contact details and submit inquiries on a user-friendly contact form.
+[Contact page](assets/screenshots/Contact%20page.png)
 
+### The Footer 
 
+  - The footer provides quick access to Fight Life's social media platforms via icons, inviting users to stay connected through Facebook, Twitter, YouTube, Instagram, and Spotify. 
 
-
-- __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
 
 ## Testing 
 

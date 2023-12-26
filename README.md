@@ -24,7 +24,7 @@ I created low fidelity frames on figma to provide a skeleton and basic layout of
 
 
 * low fidelity wireframes
-  * ![Wireframe designs] [(assets/screenshots/Homepage wireframe.jpeg)](https://github.com/Skopezz/fight-life-project/blob/main/assets/screenshots/Homepage%20wireframe.jpeg?raw=true)
+  * ![Wireframe designs] (assets/screenshots/Homepage wireframe.jpeg)
 * High fidelity wireframes
   * 
 

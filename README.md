@@ -5,7 +5,6 @@ Fight Life is a site designed to bring together martial arts enthusiasts, fitnes
 
 ![Am I responsive mock up](assets/screenshots/mockup.png)
 
-## Table of contents:
 ## **Introduction**
 ### **Target Audiences:**
 * Users with a passion for martial arts, whether beginners or experienced practitioners seeking a training environment.
@@ -177,30 +176,36 @@ Mobile version
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+Deployment of the page on GitHub was carried out by the following steps: -
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+1. On the project's repository fight-life-project, I go to the Settings tab.
+2. From the left-hand menu, the Pages tab is selected.
+3. Under the Branch section, select the Main branch from the drop-down menu and click Save.
+4. Refresh the page and deployment to GitHub pages will occur with a live link.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+
+The live link can be found here - https://skopezz.github.io/fight-life-project/index.html
 
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+I want to thank my fellow students for their help and guidance on building this site, it was a journey, I would like to thank Wannisa, who was a lifesaver and a big help in solving bugs and problems, I want to thank Ivan who showed me how to make the site more responsive. I would like to thank Yassir and AB, who gave me invaluable support and advice. Lastly I would to send a big thanks to Komal, who has been a great and wise course leader and with his great patience and understanding, I have been able to complete this project.
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The idea and layout was inspired by a combination of different fitness websites [Fightzone](https://fightzonelondon.co.uk/), [Third space](https://www.thirdspace.london/) and [Equinox](https://www.equinox.com/)
+- I used the Love running project as a walkthrough to build the website and this was used to build the header, main body, footer and navigation menu.[CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/)
+- The code to make the social media links was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+- The code to create the contact form was taken from [Responsive Contact Us Page](https://www.youtube.com/watch?v=gggB0Nq5vBk)
+- The code to create the classes page was taken from [CSS Responsive Card Layout](https://www.youtube.com/watch?v=ng5t_R4zuSc)
+- The code to create the club page with the gallery was taken from [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/391954f5ae8547e180a539c0d51e063c/?child=first)
+- The hamburger icons in the navigation were  from [Font Awesome](https://fontawesome.com/)
+- The mock up image in the site overview was made using using [AmIResponsive?] (https://ui.dev/amiresponsive)
+- The social media icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The text for the Classes page was taken from Fightzone and ChatGPT
+
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos and video used on the home, classes, club and lifestyle pages were taken from [Pexels](https://www.pexels.com/)
 
